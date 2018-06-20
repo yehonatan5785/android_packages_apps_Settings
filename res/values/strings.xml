@@ -13678,4 +13678,8 @@
     <!-- Circle to search -->
     <string name="search_all_entrypoints_enabled_title">Circle to Search</string>
     <string name="search_all_entrypoints_enabled_summary">Use CTS instead of Google Lens for navbar long press</string>
+    
+    <!-- Hardware info -->
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Total RAM</string>
 </resources>
