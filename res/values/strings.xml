@@ -13683,4 +13683,7 @@
     <string name="device_market_name">Market Name</string>
     <string name="soc_model">SoC Model</string>
     <string name="total_ram">Total RAM</string>
+
+    <!-- Auto pin confirm -->
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN. This is slightly less secure than tapping Enter to confirm.</string>
 </resources>
