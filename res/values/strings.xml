@@ -13680,6 +13680,7 @@
     <string name="search_all_entrypoints_enabled_summary">Use CTS instead of Google Lens for navbar long press</string>
     
     <!-- Hardware info -->
+    <string name="device_market_name">Market Name</string>
     <string name="soc_model">SoC Model</string>
     <string name="total_ram">Total RAM</string>
 </resources>
